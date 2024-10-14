@@ -1,0 +1,31 @@
+	The followings are the information given in the example 10.1
+	*	Number of element
+			4
+	*	Number of nodes
+			9
+	*	Node coordinates 
+		1	0,0
+		2	8,0
+		3	5,4
+		4	0,4
+		5	4,0
+		6	3.75,2
+		7	2.5,4
+		8	0,2
+		9	6.5,2
+	*	Nodes in the element
+		1	1,5,6,8
+		2	2,5,6,9
+		3	3,6,7,9
+		4	4,6,7,8
+	*	Number of forces
+			2
+	*	Forces on the nodes
+		2	5000,0
+		3	5000,0
+	*	Constant thickness
+			0.1
+	*	Modulus of elasticity
+			30e+6
+	*	Poisson's ratio
+			0.25
